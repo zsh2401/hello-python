@@ -1,0 +1,9 @@
+range n.范围
+print v.打印
+list n.列表
+length n.长度
+sort v.排序
+python n.蟒蛇
+value n.值
+tmp  临时的缩写
+swap v.交换
